@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import "../Styles/Home2.css";
 import curry from "../assets/yo.jpeg";
 import TiltedCard from "../Components/cardsproy/cardsproy.jsx";
-import yoAbout from "../assets/yotraje.jpg";
+
 import SpotlightCard from "../Components/cards/cards.jsx";
 import GooeyNav from "../Components/nav/nav.jsx";
 import hotel from "../assets/hotel.png";
