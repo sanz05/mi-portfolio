@@ -191,7 +191,7 @@ export default function Home() {
                             displayOverlayContent
                             overlayContent={
                                 <a className="tilted-card-demo-text" href="https://sanz05.github.io/PROYECTO-LENGUAJES-IV/" target="_blank" rel="noopener noreferrer">
-                                    Hotel California
+                                    Calculadora Web Científica
                                 </a>
                             }
                         /> 
@@ -218,25 +218,7 @@ export default function Home() {
                         
                         
 
-                        <TiltedCard
-                            imageSrc={hotel}
-                            altText="Kendrick Lamar - GNX Album Cover"
-                            captionText="Kendrick Lamar - GNX"
-                            containerHeight="300px"
-                            containerWidth="300px"
-                            imageHeight="300px"
-                            imageWidth="300px"
-                            rotateAmplitude={12}
-                            scaleOnHover={1.05}
-                            showMobileWarning={false}
-                            showTooltip
-                            displayOverlayContent
-                            overlayContent={
-                                <a className="tilted-card-demo-text" href="https://sanz05.github.io/PROYECTO-LENGUAJES-IV/" target="_blank" rel="noopener noreferrer">
-                                    Hotel California
-                                </a>
-                            }
-                        />
+
                     </div>
                 </div>
             </section>
